@@ -15,7 +15,9 @@ Basic neural network completely from scratch in python. Not useful for real-worl
 ## **Adjust weight decay**
 	nn.weightDecay = 0.1
 
-	#Setting a weight decay of 0.1 for example will subtract 10% of the weight from itself. This in effect introduces an 	#incentive for smaller weights.
+	#Setting a weight decay of 0.1 for example will subtract 10% of the weight from itself. This in effect introduces an 
+	
+	#incentive for smaller weights.
 
 ## **Adjust bias decay**
 	nn.biasDecay =0.1
